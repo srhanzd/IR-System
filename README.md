@@ -12,7 +12,23 @@ this ir system is build on two data sets
 
 
 
-1-	Mr-tydi :
+1-	Antique :
+
+
+Language : English
+
+
+Documents : 404 K 
+
+
+Queries : 200
+
+
+QRELS : 2.2 K
+
+
+
+2-	Mr-tydi :
 
 
 Language : SW (Swahili)
@@ -26,19 +42,7 @@ Queries : 3.3 K
 
 QRELS : 3.8 K
 
-2-	Antique :
 
-
-Language : English
-
-
-Documents : 404 K 
-
-
-Queries : 200
-
-
-QRELS : 2.2 K
 
 
 Offline services :
