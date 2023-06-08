@@ -167,13 +167,13 @@ Evaluation_Clustering:
         
         total_reciprocal_rank += reciprocal_rank
        
-   mean_precision_10 = total_precision_10 / total_queries
+      mean_precision_10 = total_precision_10 / total_queries
    
    
-   mean_precision = total_precision / total_queries
+      mean_precision = total_precision / total_queries
    
    
-   mean_recall = total_recall / total_queries
+      mean_recall = total_recall / total_queries
    
    
    
