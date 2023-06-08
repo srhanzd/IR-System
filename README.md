@@ -177,11 +177,11 @@ Evaluation_Clustering:
    
    
    
-   mean_average_precision = total_average_precision / total_queries
+      mean_average_precision = total_average_precision / total_queries
    
    
    
-   mean_reciprocal_rank = total_reciprocal_rank / total_queries.
+      mean_reciprocal_rank = total_reciprocal_rank / total_queries.
    
    
    
