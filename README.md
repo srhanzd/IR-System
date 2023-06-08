@@ -8,6 +8,10 @@ Information retrieval (IR) is an important system that revolves around the task 
 
 
 this ir system is build on two data sets 
+
+
+
+
 1-	Mr-tydi :
 Language : SW (Swahili)
 Documents : 137 K 
