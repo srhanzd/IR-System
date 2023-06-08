@@ -26,6 +26,9 @@ QRELS : 2.2 K
 
 
 Offline services :
+
+
+
 OflineServiceForFirstDataSet.py-> to run all the services for first data set.
 
 
