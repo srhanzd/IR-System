@@ -57,19 +57,19 @@ OflineServiceForSecoundDataSet.py ->to run all the services for secound data set
 Data_preprocessing :
 
 
-   clean_text
+      clean_text
    
    
    
-   tokenize_text
+      tokenize_text
    
    
    
-   remove_stopwords
+     remove_stopwords
    
    
    
-   lemmatize_tokens
+     lemmatize_tokens
    
    
    
