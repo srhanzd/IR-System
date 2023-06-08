@@ -49,11 +49,11 @@ Offline services :
 
 
 
-OflineServiceForFirstDataSet.py-> to run all the services for first data set.
+OflineServiceForFirstDataSet.py-> to run all the offline services for first data set.
 
 
 
-OflineServiceForSecoundDataSet.py ->to run all the services for secound data set.
+OflineServiceForSecoundDataSet.py ->to run all the offline services for secound data set.
 
 
 
@@ -199,7 +199,7 @@ Search(End Point) -> take users query and returns the relevent doucments .
 
 
 QueryPreprocessing :
-     clean_text
+      clean_text
      
      
       tokenize_text
