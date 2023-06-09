@@ -9,7 +9,7 @@ normalized_tfidf_matrix = load_npz(os.path.join(current_dir, 'normalized_tfidf_m
 ids_array = np.load(os.path.join(current_dir, 'ids.npy'))
 ids = ids_array.tolist()
 
-feature_names = np.loadtxt(os.path.join(current_dir, 'feature_names.txt', dtype=str))
+feature_names = np.loadtxt(os.path.join(current_dir, 'feature_names.txt'), dtype=str)
 
 inverted_index = {}
 

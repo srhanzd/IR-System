@@ -40,7 +40,7 @@ ids_array = np.load(os.path.join(current_dir,'ids.npy'))
 ids = ids_array.tolist()
 
 
-feature_names = np.loadtxt(os.path.join(current_dir,'feature_names.txt', dtype=str))
+feature_names = np.loadtxt(os.path.join(current_dir,'feature_names.txt'), dtype=str)
 
 
 # id_to_index = {doc_id: index for index, doc_id in enumerate(ids)}
